@@ -21,8 +21,10 @@ The goal so far has been:
 
 ### 1. Initial bulk loader
 File: load_csv_1st.py
-![FILE](load_csv_1st.py)
-![NOTEBOOK](Loaded_tables_and_checks1st.ipynb)
+
+[FILE](load_csv_1st.py)
+
+[NOTEBOOK](loaded_tables_and_checks1st.ipynb)
 
 Implemented:
 - reads CSV files from Files/csv/csv
@@ -33,8 +35,8 @@ Implemented:
 
 ### 2. Validation and investigation scripts
 Files:
-- ![checks_of_loaded_tables.py](checks_of_loaded_tables.py)
-- ![Loaded_tables_and_checks1st.ipynb](Loaded_tables_and_checks1st.ipynb)
+- [checks_of_loaded_tables.py](checks_of_loaded_tables.py)
+- [Loaded_tables_and_checks1st.ipynb](loaded_tables_and_checks1st.ipynb)
 
 Issues:
  - multiple ERRORS:
@@ -52,7 +54,7 @@ Implemented:
 
 ### 3. Debug-focused loading path
 File:
-- ![load_debug.ipynb](load_debug.ipynb)
+- [load_debug.ipynb](load_debug.ipynb)
 
 Implemented:
 - improved troubleshooting flow for parsing issues
