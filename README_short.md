@@ -1,3 +1,5 @@
+# IN PROGRESS
+
 # AdventureWorks Fabric Loader - Short Summary
 
 ## What this project does
@@ -29,7 +31,7 @@ Improved approach:
 Move from Bronze-only to Bronze + Silver.
 
 See detailed plan:
-- README_silver_layer.md
+- IN PROGRESS: README_silver_layer.md
 
 ## Screenshots
 ![Files in Lakehouse](images/Lakehouse_files_csv.png)
