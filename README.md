@@ -4,7 +4,7 @@
 # AdventureWorks CSV to Microsoft Fabric Lakehouse
 
 Additional README files in this folder:
-- README_short.md: one-page project summary
+- [README_short.md]([README_short.md]): one-page project summary
 - IN PROGRESS: README_silver_layer.md: detailed Silver layer next-step plan
 
 ## Project summary
