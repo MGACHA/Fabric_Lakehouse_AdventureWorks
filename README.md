@@ -5,7 +5,7 @@
 
 Additional README files in this folder:
 - README_short.md: one-page project summary
-- README_silver_layer.md: detailed Silver layer next-step plan
+- IN PROGRESS: README_silver_layer.md: detailed Silver layer next-step plan
 
 ## Project summary
 This project loads AdventureWorks CSV files from the Files area into Delta tables in a Fabric Lakehouse (Bronze layer), then logs data quality checks and malformed rows.
